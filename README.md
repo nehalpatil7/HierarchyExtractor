@@ -35,7 +35,7 @@ JSON object Hierarchy Extractor
 }
 ```
 
-```bash
+```console
 Visualizing keys for Users/Desktop/example.json
 root
 |-- id
