@@ -17,21 +17,21 @@ JSON object Hierarchy Extractor
 
 ```json
 {
-	"id": "0001",
-	"type": "donut",
-	"name": "Cake",
-	"ppu": 0.55,
-	"batters":
-		{
-			"batter":
-				[
-					{ "id": "1002", "type": "Chocolate" },
-				]
-		},
-	"topping":
-		[
-			{ "id": "5005", "type": "Sugar" },
-		]
+  "id": "0001",
+  "type": "donut",
+  "name": "Cake",
+  "ppu": 0.55,
+  "batters":
+  {
+    "batter":
+    [
+      { "id": "1002", "type": "Chocolate" },
+    ]
+  },
+  "topping":
+  [
+    { "id": "5005", "type": "Sugar" },
+  ]
 }
 ```
 
